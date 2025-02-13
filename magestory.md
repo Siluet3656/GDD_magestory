@@ -13,7 +13,7 @@
 10. [Интерфейс](#title10)
 ***
 ## <a id="title1">Жанр</a>
-### Action RPG, Roguelike с target боёвкой. Ref: Rabbit&Steel, The binding of Issac, Cult of the lumb.
+### Action RPG, Roguelike с target боёвкой, метроидвания. Ref: Rabbit&Steel, The binding of Issac, Cult of the lumb.
 ---
 ## <a id="title2">Синопсис</a>
 Могущесвенный маг был заточен в подземелье. Его силы были разбросаны по подземелью.
