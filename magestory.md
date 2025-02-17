@@ -298,6 +298,7 @@ Action RPG, Roguelike с target боёвкой, метроидвания. Ref: R
 
 ---
 ## <a id="title9">Дизайн</a>
+![forward](https://github.com/user-attachments/assets/2dc241ed-0820-4905-8f59-49722599f67e)
 
 ---
 ## <a id="title10">Интерфейс</a>
